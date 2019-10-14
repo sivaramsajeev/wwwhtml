@@ -1,4 +1,4 @@
 #!/bin/bash
 
-git pull origin
+git pull origin master
 
